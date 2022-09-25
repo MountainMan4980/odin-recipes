@@ -1,0 +1,14 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: rgb(47, 0, 255);
+    background-color: orange;
+    text-align: center;
+} 
+
+img {
+    height: 500px;
+    width: auto
+}
